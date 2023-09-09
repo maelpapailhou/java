@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Section 3 - Starting out/18 Commands arguments.md",
+                "file": "Section 3 - Starting out/17 Commands.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Section 3 - Starting out/18 Commands arguments.md",
+                "file": "Section 3 - Starting out/17 Commands.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Section 3 - Starting out/18 Commands arguments.md",
+                "file": "Section 3 - Starting out/17 Commands.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Section 3 - Starting out/18 Commands arguments.md"
+                "file": "Section 3 - Starting out/17 Commands.md"
               }
             }
           }
@@ -148,12 +148,12 @@
   },
   "active": "1793ddba56f28919",
   "lastOpenFiles": [
-    "Section 3 - Starting out/17 Commands.md",
-    "Section 3 - Starting out/18 Commands arguments.md",
-    "Section 3 - Starting out/16 Events.md",
-    "Section 3 - Starting out/15 First plugin.md",
-    "Section 2 - Java Basics/Java Basics 1.md",
     "Sans titre.md",
+    "Section 3 - Starting out/18 Commands arguments.md",
+    "Section 3 - Starting out/15 First plugin.md",
+    "Section 3 - Starting out/16 Events.md",
+    "Section 3 - Starting out/17 Commands.md",
+    "Section 2 - Java Basics/Java Basics 1.md",
     "Section 2 - Java Basics/Java Basics 2.md",
     "Section 3 - Starting out",
     "Section 2 - Java Basics",
